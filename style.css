@@ -1,0 +1,20 @@
+*{
+    padding: 1px;
+    margin: auto;
+    background-color: rgb(196, 173, 147);
+}
+
+
+span{
+    color: red;
+    display: inline;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+#result{
+    text-align: center;
+    margin-top: 20px;
+    min-height: 100px;
+    font-size: 18px;
+}
